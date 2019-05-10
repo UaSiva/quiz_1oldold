@@ -1,0 +1,5 @@
+---
+applications:
+ - name: quiz_1   
+   random-route: true
+   memory: 256M
